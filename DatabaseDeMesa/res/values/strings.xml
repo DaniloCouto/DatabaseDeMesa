@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Database de Mesa</string>
+    <string name="hello_world">Hello world!</string>
+	
+    <!-- Menu Array -->
+    <string-array name="menu_lateral_nome">
+        <item>Inicio</item>
+        <item>Cadastro</item>
+        <item>Pesquisar</item>
+    </string-array>
+    
+    <string-array name="menu_lateral_desc">
+        <item>Volta ao Inicio</item>
+        <item>Cadastra novos Itens</item>
+        <item>Consulta, Altera e Deleta Itens</item>
+    </string-array>
+    
+</resources>
